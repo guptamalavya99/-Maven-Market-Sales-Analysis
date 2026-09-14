@@ -8,7 +8,7 @@ The project focuses on using SQL to answer business questions and Power BI to an
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 Maven Market is a mid-sized retail business operating a network of stores across multiple regions, serving a diverse customer base through a broad range of products and brands.
 
@@ -25,7 +25,7 @@ The analysis was carried out primarily using **PostgreSQL and Power BI**, with s
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 The dataset contains Maven Market's retail business data for **1997 and 1998**.
 
@@ -43,7 +43,7 @@ The dataset was already cleaned before being used for this project. The analysis
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 | Tool | Purpose |
 |---|---|
@@ -54,31 +54,31 @@ The dataset was already cleaned before being used for this project. The analysis
 
 ---
 
-# 🔍 Key Insights
+#  Key Insights
 
 The analysis was divided into four main areas: **Sales & Store Performance, Product Performance, Returns & Operational Performance, and Customer Performance.**
 
-### 📈 Sales & Store Performance
+### Sales & Store Performance
 
 - Revenue increased from approximately **$565K in 1997 to $1.2M in 1998**.
 - The number of active stores increased from **13 in 1997 to all 24 stores in 1998**, closely aligning with the revenue increase.
 - **Supermarkets** generated the highest revenue at approximately **$789K**.
 - **North West** was the strongest region at approximately **$848K**, while **Central West** generated approximately **$9K**.
 
-### 📦 Product Performance
+###  Product Performance
 
 - **Hermanos** was the top-performing brand, generating approximately **$56.7K in revenue**.
 - **Hermanos Green Pepper** was the highest-revenue individual product at approximately **$2.49K**.
 - Some high-volume products generated relatively low profit per unit, highlighting potential areas for further margin investigation.
 - Product performance was almost evenly split between products performing above and below their respective brand averages.
 
-### 📉 Returns & Operational Performance
+### Returns & Operational Performance
 
 - **Store 8** recorded the highest store return rate at **1.17%**.
 - **King** had the highest overall brand return rate at **1.78%**.
 - Return rates varied considerably across stores, suggesting that store-specific factors may influence return patterns.
 
-### 👥 Customer Performance
+###  Customer Performance
 
 - **Bronze members** generated the highest purchasing volume at **465,090 units**.
 - **Professional** customers generated the highest purchasing volume among occupation groups.
@@ -87,7 +87,7 @@ The analysis was divided into four main areas: **Sales & Store Performance, Prod
 
 ---
 
-# 📊 Power BI Dashboard
+#  Power BI Dashboard
 
 The Power BI dashboard contains four main analytical pages:
 
@@ -109,7 +109,7 @@ Examines store performance by location, store type, return rate, store size, rev
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```text
 Maven Market Sales Analysis/
@@ -171,7 +171,7 @@ Maven Market Sales Analysis/
 
 ```
 
-# 📑 Project Reports
+#  Project Reports
 
 The repository contains the supporting reports and assets used throughout the project.
 
@@ -187,7 +187,7 @@ All reports and project assets have been uploaded to this repository.
 
 ---
 
-# 🔗 Notion Report
+#  Notion Report
 
 A detailed version of the analysis is also available directly in Notion.
 
